@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Joypad",
+    "slug": "joypad-mobile-edition",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/JPLogo1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Joypad.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/JPLogo1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sergeyvahnyuk.joypad2"
+    },
+    "web": {
+      "favicon": "./assets/Joypad.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f41cd412-07cd-4c0f-83a9-b24a60562385"
+      }
+    },
+    "owner": "sergeyvahnyuk",
+    "androidStatusBar": {
+      "translucent": true
+    }
+  }
+}
