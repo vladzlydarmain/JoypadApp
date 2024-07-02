@@ -18,7 +18,7 @@ Joypad is a messenger application with integration for Steam and Dota 2. It allo
 
 ## Features
 
-- **Chat Groups**: Create and manage chat groups for communication.
+- **Chat Groups**: Chat in your groups with your friends.
 - **Steam Integration**: Connect with Steam accounts for seamless communication.
 - **Dota 2 Integration**: Access Dota 2 data, including win rates and ranks.
 - **User Profile**: View detailed profile of user within the app.
@@ -37,7 +37,7 @@ This project taught us a little better how to organize team work, as well as how
 
 - **Vlad Zlydar**
 - [**Serhiy Vahnyuk**](https://github.com/SerhiyVahnyuk/)
-- **Roman Babai**
+- [**Roman Babai**](https://github.com/BabaiRoman/)
 - [**Daniil Makhno**](https://github.com/shrek0228/)
 
 ## Technologies
