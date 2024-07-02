@@ -666,7 +666,7 @@ function GroupAchievementsScreen({ navigation, route }) {
         console.log("Token", token)
         if (!data) {
           console.log("FETCH 1")
-          fetch(`https://joypadapi.onrender.com/achievements/group/`, {
+          fetch(`https://joypadapi.onrender.com/achievements/group/all`, {
             method: "GET",
             headers: {
               "Content-Type": "application/json",
