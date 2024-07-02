@@ -6,7 +6,7 @@
 Website - https://joypad.onrender.com
 API - https://joypadapi.onrender.com
 
-Joypad is a messenger application with integration for Steam and Dota 2. It allows users to create chat groups, invite others, and view win rates and ranks of players. Below, I've included details about the project and mentioned developers:
+Joypad is a messenger application with integration for Steam and Dota 2. It allows users to chat in your groups and view their statistics Below, I've included details about the project and mentioned developers:
 
 ## Other dependencies/info
 
